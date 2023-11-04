@@ -1,0 +1,16 @@
+.btn {
+    display: block;
+    background-color: skyblue;
+    border: 1rem solid blueviolet;
+    border-radius: 50%;
+    padding: 200px;
+}
+
+.title {
+    text-align: center;
+}
+
+.pressed {
+    box-shadow: 0 0 20px rgb(117, 117, 240);
+    background-color: rgb(133, 133, 223);
+}
